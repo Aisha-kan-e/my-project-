@@ -1,0 +1,28 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Grenze Gotisch", cursive;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #FFD700;
+}
+
+h2 {
+  margin-top: 2em;
+}
+
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+
+.answer-choice img {
+  height: 10em;
+}
+
+body {
+  background-color: #FFF8DC;
+}
